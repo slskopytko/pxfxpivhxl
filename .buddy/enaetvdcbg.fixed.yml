@@ -1,4 +1,0 @@
-- pipeline: enaetvdcbg
-  refs:
-  - refs/heads/master
-  on: CLICK
