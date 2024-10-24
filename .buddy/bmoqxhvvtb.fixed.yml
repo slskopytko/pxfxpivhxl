@@ -1,0 +1,4 @@
+- pipeline: bmoqxhvvtb
+  refs:
+  - refs/heads/master
+  on: CLICK
